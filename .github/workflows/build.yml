@@ -1,7 +1,7 @@
 name: build
 
 env:
-  PROJECT_NAME: css343=homework-0415-money
+  PROJECT_NAME: css343-homework-0415-money
 
 on: [ pull_request, push ]
 
